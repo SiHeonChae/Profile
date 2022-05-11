@@ -1,0 +1,21 @@
+.oo{
+    color:darkblue;
+    font-weight:bold;
+    font-size: 15px;
+}
+h3{
+    border-left:10px solid darkblue; 
+    padding-left:5px;
+}
+body{
+    background:rgb(228, 235, 238);
+}
+h1{
+    font-weight:bold;
+    padding-left:270px;
+    padding-right:1430px;
+}
+h2{
+    font-weight:bold;
+    padding-left:280px;
+}
